@@ -6,7 +6,8 @@
 3. Compile -- Navigate to the directory using terminal and run the code
 4. Results -- You will see output that shows the results of transactional operations
 
-**Future Modifications**
+**Future Modifications** 
+
 In order to turn this assignment into an "official" future assignment, I would continue to clarify instruction because I had to do some 
 additional research to figure things out like in order to return a nullptr in the get method I would need to use raw pointers. I also would give more
 details on things like error handling/edge cases on the put, commit, and rollback methods. Building on that, I think a good idea would be to include a 
